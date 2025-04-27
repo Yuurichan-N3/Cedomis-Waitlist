@@ -38,6 +38,9 @@ pip install requests web3 eth_account colorama
    ```bash
    python bot.py
    ```
+4. **Konfigurasi API Key**:
+   - Buka file bot.py.
+Ganti `GANTI_APIKEY_DISINI` pada variabel `API_KEY` dengan API key yang valid dari Supabase atau platform terkait.
 
 4. **Ikuti Instruksi**:
    - Masukkan jumlah wallet yang ingin digenerate.

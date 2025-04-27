@@ -10,7 +10,7 @@ init(autoreset=True)
 
 # Konfigurasi endpoint
 BASE_URL = "https://qlphwtruuvetikksidtj.supabase.co/rest/v1/waitlist_entries"
-API_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFscGh3dHJ1dXZldGlra3NpZHRqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDU0OTEyNzEsImV4cCI6MjA2MTA2NzI3MX0.gbrF5tQL6GPdjyncCL2dyDdLQO6WWQyVeXdKsm3OWb4"
+API_KEY = "GANTI_APIKEY_DISINI"
 HEADERS = {
     "accept": "*/*",
     "accept-encoding": "gzip, deflate, br, zstd",
